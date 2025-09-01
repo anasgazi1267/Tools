@@ -1,0 +1,122 @@
+[
+  {
+    "id": "calculator",
+    "name": "Simple Calculator",
+    "description": "Basic arithmetic operations",
+    "url": "tools/calculator.html"
+  },
+  {
+    "id": "unit-converter",
+    "name": "Unit Converter",
+    "description": "Metric ↔ Imperial conversion",
+    "url": "tools/unit-converter.html"
+  },
+  {
+    "id": "text-cleaner",
+    "name": "Text Cleaner",
+    "description": "Remove extra spaces & symbols",
+    "url": "tools/text-cleaner.html"
+  },
+  {
+    "id": "word-counter",
+    "name": "Word Counter",
+    "description": "Count words, characters, lines",
+    "url": "tools/word-counter.html"
+  },
+  {
+    "id": "lorem-generator",
+    "name": "Lorem Generator",
+    "description": "Generate dummy text",
+    "url": "tools/lorem-generator.html"
+  },
+  {
+    "id": "qr-generator",
+    "name": "QR Code Generator",
+    "description": "Create QR codes from text/URL",
+    "url": "tools/qr-generator.html"
+  },
+  {
+    "id": "base64-encoder",
+    "name": "Base64 Encoder/Decoder",
+    "description": "Encode/decode Base64 text",
+    "url": "tools/base64-encoder.html"
+  },
+  {
+    "id": "json-formatter",
+    "name": "JSON Formatter",
+    "description": "Beautify and validate JSON",
+    "url": "tools/json-formatter.html"
+  },
+  {
+    "id": "url-encoder",
+    "name": "URL Encoder/Decoder",
+    "description": "Encode/decode URLs",
+    "url": "tools/url-encoder.html"
+  },
+  {
+    "id": "timestamp-convert",
+    "name": "Timestamp Converter",
+    "description": "UNIX ↔ Human-readable time",
+    "url": "tools/timestamp-convert.html"
+  },
+  {
+    "id": "color-picker",
+    "name": "Color Picker",
+    "description": "Choose and copy HEX/RGB colors",
+    "url": "tools/color-picker.html"
+  },
+  {
+    "id": "gradient-maker",
+    "name": "Gradient Generator",
+    "description": "Create CSS gradients",
+    "url": "tools/gradient-maker.html"
+  },
+  {
+    "id": "password-gen",
+    "name": "Password Generator",
+    "description": "Generate secure passwords",
+    "url": "tools/password-gen.html"
+  },
+  {
+    "id": "text-to-speech",
+    "name": "Text to Speech",
+    "description": "Convert text to audio",
+    "url": "tools/text-to-speech.html"
+  },
+  {
+    "id": "markdown-preview",
+    "name": "Markdown Previewer",
+    "description": "Live preview of Markdown",
+    "url": "tools/markdown-preview.html"
+  },
+  {
+    "id": "html-cleaner",
+    "name": "HTML Cleaner",
+    "description": "Strip unwanted tags from HTML",
+    "url": "tools/html-cleaner.html"
+  },
+  {
+    "id": "css-minifier",
+    "name": "CSS Minifier",
+    "description": "Compress CSS code",
+    "url": "tools/css-minifier.html"
+  },
+  {
+    "id": "js-minifier",
+    "name": "JS Minifier",
+    "description": "Compress JavaScript code",
+    "url": "tools/js-minifier.html"
+  },
+  {
+    "id": "image-resizer",
+    "name": "Image Resizer",
+    "description": "Resize images (client-side)",
+    "url": "tools/image-resizer.html"
+  },
+  {
+    "id": "emoji-finder",
+    "name": "Emoji Finder",
+    "description": "Search and copy emojis",
+    "url": "tools/emoji-finder.html"
+  }
+]
